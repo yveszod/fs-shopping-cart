@@ -1,0 +1,21 @@
+.nav{
+    background-color: #3b3b3b;
+}
+.nav a {
+    position: relative;
+}
+.cart-badge-wrapper{
+    background-color: #ff5722;
+    position: absolute;
+    bottom: 0;
+    right: -0.5rem;
+    width: 1.25rem;
+    height: 1.25rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    line-height: 0;
+    font-size: .65rem;
+    color: #fff;
+}
